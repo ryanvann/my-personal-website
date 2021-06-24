@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: My Personal Website # Website name
+title: Ryan Van # Website name
 baseurl: 'amazing-leavitt-3069e0.netlify.app' # Website URL
 copyright: '© 2021 Ryan Van' # Footer text, e.g. '© {year} Me'
 
